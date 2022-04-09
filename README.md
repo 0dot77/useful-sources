@@ -22,7 +22,5 @@
 - [AllTouchDesigner](https://alltd.org/)
 
 # ECT
-
-## With 3d Tools
-
-[TinyPNG](https://tinypng.com/)
+- [TinyPNG](https://tinypng.com/)
+- [Simple Icons](https://simpleicons.org/)
