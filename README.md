@@ -1,6 +1,7 @@
-# useful-sources
+# 이것은 나의 짐 혹은 부채 🧳
 
 - 개발 및 작품 창작에 유용한 링크 모아두기
+- 읽고 공부하고 쓰자!
 
 # DEV
 
@@ -28,5 +29,6 @@
 - [AllTouchDesigner](https://alltd.org/)
 
 # ECT
+
 - [TinyPNG](https://tinypng.com/)
 - [Simple Icons](https://simpleicons.org/)
