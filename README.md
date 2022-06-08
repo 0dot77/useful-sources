@@ -5,6 +5,11 @@
 
 # 개발을 한다면
 
+## Library
+
+- [CHART](https://timqian.com/chart.xkcd/#introduction)
+  - 귀여운 차트 라이브러리
+
 # 창작을 한다면
 
 ## Web
@@ -13,6 +18,7 @@
 - [html energy](html.energy)
 - [민구홍 매뉴팩처링](https://minguhongmfg.com/)
 - [laurel.world](https://www.laurel.world/)
+- [ASCII art](https://ascii.co.uk/)
 
 ## 작가 / 이론 / 글 / 등
 
@@ -20,6 +26,10 @@
 - [백남준의 비디오 서재](https://njpvideo.ggcf.kr/)
 - [류성실 - 소셜 미디어와 유튜브 시대의 사진과 영상](https://www.youtube.com/watch?v=e1O6XtQh1D0)
 - [MaxCooper](https://maxcooper.net/)
+- [Kid A Mnesia Game - A Radiohead Exhibition](https://youtu.be/SAfOwY9QUFw)
+- 새로운 질서 그 후...
+  - [대체 미술관을 통해 오픈 액세스의 의미를 묻다.](https://stibee.com/api/v1.0/emails/share/GjYYh2HJB6QMBG73Pg4rwVS_paC8Cc0=)
+  - [웹사이트](https://afterneworder.com/)
 
 ## 3D
 
@@ -35,6 +45,7 @@
 ### Touchdesigner
 
 - [AllTouchDesigner](https://alltd.org/)
+- [bileam tschepe's tutorials](https://www.youtube.com/c/bileamtschepe/featured)
 
 # ECT
 
